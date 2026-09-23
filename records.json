@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2,
+        "name": "Rahul Sharma",
+        "age": 20,
+        "course": "BCA",
+        "email": "rahul@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Pranjal Wadhawane",
+        "age": 21,
+        "course": "MCA",
+        "email": "abc@gmail.com"
+    }
+]
